@@ -1,8 +1,8 @@
-# TIR Sovereign Systems
+# .T.I.R.®  Sovereign Systems
 
 **Sovereign AI-Driven Automation for Strategic Infrastructure and Urban Mobility**
 
-TIR Sovereign Systems develops quantum-resilient platforms governed by integrity, ESG principles, and sovereign control. Our 12-pillar monolith architecture powers secure, autonomous operations with a central AI brain and robust IP Vault protection.
+.T.I.R.®  Sovereign Systems develops quantum-resilient platforms governed by integrity, ESG principles, and sovereign control. Our 12-pillar monolith architecture powers secure, autonomous operations with a central AI brain and robust IP Vault protection.
 
 ## Key Resources
 

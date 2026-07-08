@@ -1,4 +1,4 @@
-.TIR-sovereign-system/
+TIR-sovereign-system/
 ├─ README.md
 ├─ LICENSE
 ├─ CONTRIBUTING.md

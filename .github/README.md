@@ -9,7 +9,7 @@
 ## Core Architecture
 
 - Double-layered nested monolith with modular design up to 5 levels.
-- Central TIR AI brain for real-time orchestration and pillar synchronization.
+- Central  AI .T.I.R.® brain for real-time orchestration and pillar synchronization.
 - 12 encrypted security vault layers protected by the IP Vault holding company.
 
 ## The 12 Pillars
@@ -24,7 +24,7 @@ Robust, layered protection ensures data sovereignty, compliance, and resilience 
 
 - **Business Partners**: Integration and co-development in AI software, simulations, weather systems, and autonomous mobility platforms.
 - **Investors**: Structured investment opportunities with transparent revenue models and exposure to high-growth markets. NDA-protected materials available.
-- **Franchisors**: Complete, replicable business models supported by legal frameworks, training, and the full TIR AI platform.
+- **Franchisors**: Complete, replicable business models supported by legal frameworks, training, and the full .T.I.R.® AI platform.
 
 Qualified organizations are invited to contact the executive team for detailed discussions, demonstrations, or partnership briefings.
 

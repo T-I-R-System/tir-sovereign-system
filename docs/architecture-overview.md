@@ -1,4 +1,4 @@
-# The .T.I.R.® Architecture Overview
+# Architect overview
 
 # .T.I.R.® Sovereign System is a double-layered, nested monorepo monolith designed for scalability, security, and sovereign governance. It features up to 5-level nesting and is protected by 12 dedicated security vault layers.
 

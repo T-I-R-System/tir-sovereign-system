@@ -1,6 +1,0 @@
-# Public Configuration Schemas
-
-High-level configuration templates for partner integrations and demonstrations.
-
-- `public_config_schema.py` – Example schemas for pillar settings and monitoring.
-- No sensitive credentials or proprietary parameters are included.

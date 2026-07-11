@@ -1,3 +1,13 @@
 # Public API Documentation
 
 See openapi.yaml for specifications. Primary use cases include status checks and partner booking submissions.
+# Public API Documentation
+
+.T.I.R.® Sovereign System provides high-level public APIs for trusted partners and integrations.
+
+## Key Endpoints
+- `/status` – Real-time pillar synchronization and system health.
+- `/partner/booking` – Submit urban mobility booking requests.
+- `/partner/integration` – Secure webhook and data exchange.
+
+Full specification is available in `openapi.yaml`. Rate limiting and authentication apply for production use. NDA-protected advanced endpoints are available for qualified partners.

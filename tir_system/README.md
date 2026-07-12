@@ -1,6 +1,6 @@
 # High-Level Public Orchestration Modules
 
-Public interfaces for the TIR AI brain and pillar coordination.
+Public interfaces for the .T.I.R.®  AI brain and pillar coordination.
 
 ## Purpose
 - Offer abstract and high-level modules for partner integration and demonstration.

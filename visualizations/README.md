@@ -12,16 +12,16 @@
 ## Market Opportunity and Forecasts
 
 ### Urban Air Mobility (Drone-Taxi) Market
-- **Current (2026)**: Global market valued at $8–12 billion, with early commercial operations in key regions.
+- **Current (2026)**: Global market valued at €8–12 billion, with early commercial operations in key regions.
 - **3 Months**: Regulatory advancements and initial pilot partnerships.
 - **6 Months**: First revenue-generating routes via platform integrations.
 - **1 Year**: Scaling with 50+ vertiports and platform adoption.
-- **5 Years**: Projected $150–300 billion market with strong software/orchestration demand.
+- **5 Years**: Projected €150–300 billion market with strong software/orchestration demand.
 - **10 Years**: Multi-trillion potential as autonomous mobility becomes mainstream.
 
 ### Franchise and Partnership Opportunities
-- **Short-term (1–2 years)**: Setup costs $250k–$750k per territory. Annual revenue potential $1.2M–$4M with 30–45% margins.
-- **Long-term (5–10 years)**: Cumulative revenue $15M–$50M+ per master franchise through recurring platform fees and operations.
+- **Short-term (1–2 years)**: Setup costs €250k–€750k per territory. Annual revenue potential €1.2M–€4M with 30–45% margins.
+- **Long-term (5–10 years)**: Cumulative revenue €15M–€50M+ per master franchise through recurring platform fees and operations.
 
 **Investment Focus Areas**:
 - Platform licensing and integration.
